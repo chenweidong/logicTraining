@@ -1,1 +1,2 @@
 # logicTraining
+# Trainees:chenweidong
